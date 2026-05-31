@@ -309,6 +309,10 @@ h1 {
   white-space: nowrap;
 }
 
+.status-button {
+  cursor: default;
+}
+
 .section {
   padding: clamp(76px, 10vw, 128px) clamp(20px, 6vw, 80px);
 }
